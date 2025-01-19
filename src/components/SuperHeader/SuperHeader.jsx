@@ -28,7 +28,7 @@ const Wrapper = styled.div`
     font-size: 0.875rem;
     color: ${COLORS.gray[300]};
     background-color: ${COLORS.gray[900]};
-    min-height: 2.5rem;
+    height: 2.5rem;
     padding-inline: 32px;
 `
 
